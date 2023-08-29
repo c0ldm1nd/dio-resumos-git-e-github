@@ -7,9 +7,13 @@ Repositório para armazenar sobre Git e GitHub do curso Versionamento de Código
 - [ Documentação GitHub] (https://docs.github.com/)
 
 ## 💻 Resumo das Aulas
+
+
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]
+👍Aula 01 | [Resumo]() |
+👍Aula 02 | [Resumo]() |
+
 
 ----
 git Innovation
